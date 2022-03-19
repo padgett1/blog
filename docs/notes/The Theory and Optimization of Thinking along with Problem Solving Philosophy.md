@@ -45,7 +45,7 @@ Train my brain to recognize that work is no different than directed play.
 
 I feel like this is an interesting quote. Pain is only worth something if you can learn from it. you burn your hand on the stove - you hopefully learn not to touch the stove! very effective and useful. However, in the grand scheme of things.... it would be just as effective for your parent to say don't touch the stove it will burn you. This would avoid all the pain and suffering associated with touching the hot stove. 
 in the end, I think whenever I find something that causes me suffering, I should reflect on it, try to learn something from it, and then Let It Go. 
-
+[source](https://www.lesswrong.com/posts/bx3gkHJehRCYZAF3r/pain-is-not-the-unit-of-effort#8t2RmSoLcAuTb9CW5) 
 # Raising the Happiness Set Point
 [[raising the happiness set point]]
 
