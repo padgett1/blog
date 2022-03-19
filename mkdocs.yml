@@ -1,6 +1,6 @@
 site_name: Padgett1 notes
 site_description: my published notes
-site_url: https://padgett1.github.io/blog/
+site_url: https://padgett1.github.io/notes/
 
 theme:
     name: 'material'
