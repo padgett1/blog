@@ -14,7 +14,7 @@ The process for creating these links is the most important piece of learning bec
 - By far the best way, to create brain links is to need the knowledge and enjoy working on it. 
 - Perhaps the second-best way is to repeatedly expose yourself to the knowledge over several days, with several hour-long gaps.
 
-# Pain is Not the Unit of Effort
+# Pain is Not the Unit of Effort 
 [[Pain is not the unit of effort]]
 There seems to be a philosophy that suffering is a good measure of how hard someone is trying. Good examples of this are famous quotes such as, "no pain, no gain" 
 
