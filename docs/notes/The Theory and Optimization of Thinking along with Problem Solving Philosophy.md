@@ -3,7 +3,7 @@ share: True
 ---
 problems: 
 
-add [[meeting notes]] - contains solution to above problem
+add [[meeting notes]] - contains the solution to the above problem
 to work on:
 need to fill out [[The Theory and Optimization of Thinking along with Problem Solving Philosophy#2 You're not trying your best if you're not happy]]
 
@@ -12,7 +12,7 @@ The brain uses links that relate information together.
 The process for creating these links is the most important piece of learning because knowing something without being able to apply that knowledge to a problem makes that knowledge useless. 
 - Links are built in a few different ways.
 - By far the best way, to create brain links is to need the knowledge and enjoy working on it. 
-- Perhaps the second-best way is to expose yourself to the knowledge repeatedly over several days, with several hour-long gaps.
+- Perhaps the second-best way is to repeatedly expose yourself to the knowledge over several days, with several hour-long gaps.
 
 # Pain is Not the Unit of Effort
 [[Pain is not the unit of effort]]
@@ -23,7 +23,7 @@ If you think something's supposed to hurt, you're less likely to notice if you'r
 ### 1. Don't Try Harder - Try Smarter  
 This isn't to say that you don't need to try hard, just that putting effort into optimizing the effort is just as important as the actual effort. Both are needed for success, and trying harder to the point that you are miserable is counterproductive. 
 
-It turns out that in the past, pain used to be a pretty good estimate of effort. It took most of the average person's day to get through their chores, and so anything on top of that was painful because they would much rather rest/sleep. This isn't true any more thanks to modern technology allowing us to spend vastly less time doing menial tasks. This is only true in 1st world countries though. 
+It turns out that pain used to be a pretty good estimate of effort in the past. It took most of the average person's day to get through their chores, and so anything on top of that was painful because they would much rather rest/sleep. This isn't true any more thanks to modern technology allowing us to spend vastly less time doing menial tasks. This is only true in 1st world countries though. 
 
 It also happens that using pain as the unit of effort has disastrous consequences for the average person's mental health. 
 
@@ -59,7 +59,7 @@ perform my [[weekly psych analysis]], and take action on any actionable items
 
 # Problem-Solving Methods
 ### the general method
-Whenever I try to solve a problem, I try to find the simplest solution. By this, I mean that I spend enormous effort looking for a solution that requires less effort, time, money, or parts.  I think that this causes problems in my math classes because usually there isn't a simpler solution, and I waste a lot of effort trying to find a simpler way. It's very helpful in other life aspects though.
+Whenever I try to solve a problem, I try to find the simplest solution. I mean that I spend enormous effort looking for a solution that requires less effort, time, money, or parts.  I think that this causes problems in my math classes because usually there isn't a simpler solution, and I waste a lot of effort trying to find a simpler way. It's very helpful in other life aspects though.
 - note: dad says that I probably picked this method up from him since that's his default as well
 
 ### the math method
