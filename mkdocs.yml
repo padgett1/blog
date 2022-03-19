@@ -24,7 +24,7 @@ theme:
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: dark grey
+      scheme: black
       primary: light blue
       accent: indigo
       toggle:
